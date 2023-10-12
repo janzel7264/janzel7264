@@ -1,0 +1,131 @@
+/*Nav Section Start*/
+.navbar-nav {
+	font-family: 'Indie Flower', cursive;
+	font-size: 20px;
+}
+
+.navbar-brand {
+	font-family: 'Indie Flower', cursive;
+	font-size: 35px;
+	color: black;
+
+}
+
+.navbar {
+	background-color: #696969;
+}
+
+.nav-link {
+	color: black;
+}
+
+/*Nav Section End*/
+
+.heading-1 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 40px;
+	
+}
+.heading-3 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 25px;
+}	
+.heading-2 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 20px;
+
+}
+.bg-landing {
+	background-color: #A9A9A9;
+}
+
+.card-title {
+	font-family: 'Indie Flower', cursive;
+	font-size: 40px;
+}
+
+.card-header1 {
+	font-family: 'Indie Flower', cursive;
+	
+}
+.project-header1 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 20px;
+	
+}
+
+.tools-header1 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 40px;
+	
+}
+
+.tools-header2 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 20px;
+}
+
+.bg-tools1 {
+	background-color: #A9A9A9;
+}
+
+.contact-header1 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 40px;
+}
+
+.iconsContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.icons {
+    display: flex;
+    cursor: pointer;
+}
+
+.icon {
+    flex: 1;
+    text-align: center;
+    margin: 0 1rem;
+    font-family: 'Indie Flower', cursive;
+}
+
+.icon img {
+    max-width: 100%;
+    height: 100px;
+    display: block;
+    margin-top: 0.5rem;
+}
+
+.icon span {
+    display: block;
+    margin-top: 0.5rem;
+}
+
+.header-contact {
+    font-family: 'Indie Flower', cursive;
+    font-size: 40px;
+    margin-top: 50px;
+}
+
+/*.bg-contact {
+    background-color: greenyellow;
+}*/
+
+.footer-bg {
+    background-color: #696969;
+    column-gap: 15px;
+    font-family: 'Indie Flower', cursive;
+    
+}
+
+.form-group {
+	font-family: 'Indie Flower', cursive;
+}
+
+.btn-1 {
+	font-family: 'Indie Flower', cursive;
+}
