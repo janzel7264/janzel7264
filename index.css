@@ -111,14 +111,14 @@
     margin-top: 50px;
 }
 
-/*.bg-contact {
-    background-color: greenyellow;
-}*/
 
 .footer-bg {
     background-color: #696969;
-    column-gap: 15px;
+    column-gap: 40px;
     font-family: 'Indie Flower', cursive;
+    text-align: center;
+    padding: 10px;
+    color: white;
     
 }
 
